@@ -5,9 +5,9 @@ README.txt
 
 Mitchell claims manager web service
 
-Author: Luke Kim
-Languages: ASP, C#, JSON, PostgreSQL
-Programs: Visual Studio 2015, PostgreSQL
+- Author: Luke Kim
+- Languages: ASP, C#, JSON, PostgreSQL
+- Programs: Visual Studio 2015, PostgreSQL
 
 -= SETTING UP POSTGRESQL =-
 - To set up the database, install PostgreSQL, and initialize a new PostgreSQL 9.5 database.
