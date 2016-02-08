@@ -1,0 +1,5 @@
+C:\Users\Luke\Desktop\RestService_POST\RestService\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Luke\Desktop\RestService_POST\RestService\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Luke\Desktop\RestService_POST\RestService\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Luke\Desktop\RestService_POST\RestService\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Luke\Desktop\RestService_POST\RestService\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

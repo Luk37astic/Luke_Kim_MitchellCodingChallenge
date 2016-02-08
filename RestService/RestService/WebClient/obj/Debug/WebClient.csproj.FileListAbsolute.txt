@@ -1,0 +1,8 @@
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\bin\WebClient.dll.config
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\bin\WebClient.dll
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\bin\WebClient.pdb
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\bin\ClassLibrary.dll
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\bin\ClassLibrary.pdb
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\obj\Debug\WebClient.dll
+C:\Users\Luke\Desktop\RestService_POST\RestService\WebClient\obj\Debug\WebClient.pdb
